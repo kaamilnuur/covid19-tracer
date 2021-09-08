@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">covid tracer</string>
+    <string name="recovery">soo kabashada guud</string>
+    <string name="death">geerida guud</string>
+    <string name="critical">daawaynta  guud</string>
+    <string name="cases">wadarta kiisaska</string>
+    <string name="country">dooro Dalka</string>
+    <string name="searching">halkan ka raadi</string>
+    <string name="todaycases">kiisaska maanta</string>
+    <string name="todaydeath">geerida maanta</string>
+    <string name="active">tiradu hayo wali</string>
+    <string name="title">covid 19 caalamka</string>
+    <string name="change">Bedel luuqada</string>
+    <string name="toast">qaladaa jiro</string>
+</resources>

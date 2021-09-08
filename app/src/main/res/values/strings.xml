@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">covid tracer</string>
+    <string name="cases">total cases</string>
+    <string name="recovery">total recovery</string>
+    <string name="death">total death</string>
+    <string name="critical">total critical</string>
+    <string name="country">choose Country</string>
+    <string name="searching">search here</string>
+    <string name="todaycases">today`s cases</string>
+    <string name="todaydeath">today`s death</string>
+    <string name="active">Total active</string>
+    <string name="title">covid 19 Global</string>
+    <string name="change">change language</string>
+    <string name="toast">there is error</string>
+</resources>
